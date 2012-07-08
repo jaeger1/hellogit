@@ -1,5 +1,5 @@
-if(favChar == ''){
+if(favChar == 'Peter Griffen'){
 	   print "That's my favorite too!";
 } else {
-	   print "is better";
+	   print "Peter Griffen is better";
 }
