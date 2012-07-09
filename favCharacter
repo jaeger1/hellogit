@@ -1,5 +1,5 @@
+<<<<<<< HEAD
 if(favChar == 'Peter'){
 	   print "That's my favorite too!";
 } else {
-	   print "Peter is better";
-}
+	   print "Homer is better";
